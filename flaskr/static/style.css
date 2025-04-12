@@ -2,14 +2,14 @@
 
 html {
     margin: 25px;
-    background-color: lightblue;
+    background-color: white;
     font-family: verdana;
     font-size: 20px;
 }
 
 h3 {
     margin-top: 20px;
-    background-color: lightblue;
+    background-color: white;
     font-size: 30px;
     font-weight: bolder;
 }
@@ -17,5 +17,11 @@ h3 {
 p {
     margin-top: 10px;
     margin-left: 15px;
-    background-color: lightblue;
+    background-color: white;
+}
+
+.welcome-message {
+    font-size: 30px; /* Make the text larger */
+    font-weight: bold; /* Make the text bold */
+    margin-bottom: 20px; /* Add some space below */
 }
